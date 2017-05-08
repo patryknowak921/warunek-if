@@ -6,6 +6,6 @@ if ( value > 0 ) {
 	console.log('wynik dodatni');
 } else if ( value < 0 ) {
 	console.log('wynik ujemny');
-} else if ( value == 0 ) {
+} else {
 	console.log('wynik zerowy');
  }
